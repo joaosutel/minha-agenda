@@ -1,0 +1,160 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category_name": "nail",
+      "icon": "../assets/svg/brush_tool.svg",
+      "icon_description": "Category Nails",
+      "name": "Jaleco",
+      "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "product_category_id": 1,
+      "cost_price": 555.44,
+      "price": 999.99,
+      "available": false,
+      "active": true,
+      "normalizedName": "jaleco"
+    },
+    {
+      "id": 2,
+      "category_name": "hair",
+      "icon": "../assets/svg/scizor.svg",
+      "icon_description": "Category Hair",
+      "name": "Avental",
+      "description": "Avental de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "product_category_id": 2,
+      "cost_price": 555.44,
+      "price": 999.99,
+      "available": false,
+      "active": true,
+      "normalizedName": "avental"
+    },
+    {
+      "id": 3,
+      "category_name": "Product",
+      "icon": "../assets/svg/sale.svg",
+      "icon_description": "Category Products",
+      "name": "Touca",
+      "description": "Touca de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "product_category_id": 3,
+      "cost_price": 555.44,
+      "price": 999.99,
+      "available": true,
+      "active": false,
+      "normalizedName": "touca"
+    },
+    {
+      "id": 4,
+      "category_name": "Nail",
+      "icon": "../assets/svg/brush_tool.svg",
+      "icon_description": "Category Nails",
+      "name": "Fronha",
+      "description": "Fronha de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "product_category_id": 1,
+      "cost_price": 555.44,
+      "price": 999.99,
+      "available": true,
+      "active": false,
+      "normalizedName": "fronha"
+    },
+    {
+      "id": 5,
+      "category_name": "Hair",
+      "icon": "../assets/svg/scizor.svg",
+      "icon_description": "Category Hair",
+      "name": "Embalagem",
+      "description": "Embalagem de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "product_category_id": 2,
+      "cost_price": 555.44,
+      "price": 999.99,
+      "available": true,
+      "active": true,
+      "normalizedName": "embalagem"
+    },
+    {
+      "id": 6,
+      "category_name": "Nail",
+      "icon": "../assets/svg/brush_tool.svg",
+      "icon_description": "Category Nails",
+      "name": "Porta talher",
+      "description": "Porta talher de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "product_category_id": 1,
+      "cost_price": 555.44,
+      "price": 999.99,
+      "available": true,
+      "active": true,
+      "normalizedName": "porta talher"
+    },
+    {
+      "id": 7,
+      "category_name": "Product",
+      "icon": "../assets/svg/sale.svg",
+      "icon_description": "Category Products",
+      "name": "Porta absorvente",
+      "description": "Porta absorvente de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "product_category_id": 3,
+      "cost_price": 555.44,
+      "price": 999.99,
+      "available": true,
+      "active": false,
+      "normalizedName": "porta absorvente"
+    }
+  ],
+  "product_categories": [
+    {
+      "id": 1,
+      "category_name": "Nail",
+      "icon": "../assets/svg/brush_tool.svg",
+      "icon_description": "Category Nails"
+    },
+    {
+      "id": 2,
+      "category_name": "Hair",
+      "icon": "../assets/svg/scizor.svg",
+      "icon_description": "Category Hair"
+    },
+    {
+      "id": 3,
+      "category_name": "Product",
+      "icon": "../assets/svg/sale.svg",
+      "icon_description": "Category Products"
+    }
+  ],
+  "clients": [
+    {
+      "name": "Joao Gaspar Menezes Sutel",
+      "birthdate": "2023-01-03",
+      "email": "joao.sutel@gmail.com",
+      "cellphone": "67981570534",
+      "meet_us_id": null,
+      "is_active": false,
+      "id": 1
+    },
+    {
+      "name": "Jenniffer Mantovani",
+      "birthdate": "2023-01-02",
+      "email": "joao.sutel@gmail.com",
+      "cellphone": "67981560534",
+      "meet_us_id": null,
+      "is_active": true,
+      "id": 2
+    },
+    {
+      "name": "Jenniffer Mantovani",
+      "birthdate": "2023-01-22",
+      "email": "joao.sutel@gmail.com",
+      "cellphone": "67981560534",
+      "meet_us_id": null,
+      "is_active": false,
+      "id": 3
+    },
+    {
+      "name": "Joao Gaspar Menezes Sutel",
+      "birthdate": "2023-01-01",
+      "email": "joao.sutel@gmail.com",
+      "cellphone": "67981570534",
+      "meet_us_id": null,
+      "is_active": true,
+      "id": 4
+    }
+  ]
+}
